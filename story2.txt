@@ -1,0 +1,1 @@
+this is story 2 written as a dummy code to serve its purpose in learning the git
